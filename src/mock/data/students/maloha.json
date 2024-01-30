@@ -5,6 +5,6 @@
     "projectDescription": "Application for people living in shared accommodation",
     "frontend": ["react"],
     "backend": ["Java", "SpringBoot", "H2"],
-    "repository": "*",
+    "repository": "https://",
     "teamMembers": ["Daniel", "Mikkel", "Thomas", "Sunniva", "Rita"]
 }
